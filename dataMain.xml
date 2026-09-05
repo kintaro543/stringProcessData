@@ -1,0 +1,21 @@
+<station>
+<stationID>52t</stationID>
+<nameTH> Thonburi Power Sub-Station but in thai </nameTH>
+<nameEN>Thonburi Power Sub-Station</nameEN>
+<areaTH>Intarapitak Rd. Khet Thon Buri, Bangkok but in thai</areaTH>
+<areaEN>Intarapitak Rd. Khet Thon Buri, Bangkok</areaEN>
+<stationtype>GROUND</stationtype>
+<lat>13.727622</lat>
+<long>100.486568</long>
+<LastUpdate>
+<date>2026-09-05</date>
+<time>15:00</time>
+<PM25 value="18.1" unit="µg/m³"/>
+<PM10 value="-" unit="µg/m³"/>
+<O3 value="-" unit="ppb"/>
+<CO value="-" unit="ppm"/>
+<NO2 value="-" unit="ppb"/>
+<SO2 value="-" unit="ppb"/>
+<AQI Level="2" aqi="33"/>
+</LastUpdate>
+</station>
